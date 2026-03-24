@@ -1,0 +1,17 @@
+.DS_Store
+
+# Next.js / Node (my-app)
+my-app/node_modules/
+my-app/.next/
+my-app/out/
+my-app/.vercel/
+my-app/coverage/
+
+# Python venv (claude-code-crash-course)
+claude-code-crash-course/.venv/
+
+# Don't commit this folder into HookKit
+claude-code-crash-course/
+
+# Tooling artifacts
+my-app/.playwright-mcp/
